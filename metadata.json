@@ -1,0 +1,7 @@
+{
+  "name": "Voice Changer",
+  "description": "Transform and morph your voice into renowned personalities like Mohammad Rafi, Imran Khan, and custom celebrities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
